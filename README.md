@@ -1,4 +1,4 @@
-# Feature_tournament_Daejeon_Game_2018
+# Feature_tournament_Region_Game_2018
 
 2018년도 지방기능경기대회 출품작
 
